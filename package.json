@@ -1,0 +1,23 @@
+{
+  "name": "fetchapi",
+  "version": "1.0.0",
+  "description": "fetch with json api handling features",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgrwkmn/fetchapi.git"
+  },
+  "author": "Roger Wakeman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgrwkmn/fetchapi/issues"
+  },
+  "homepage": "https://github.com/rgrwkmn/fetchapi#readme",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
